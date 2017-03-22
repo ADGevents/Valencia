@@ -1,0 +1,157 @@
+-
+  id: 001
+  title: "Empty slot"
+  description: "Slot description"
+  subtype: presentation
+  speakers: [1]
+  language: es
+  complexity: "Intermediate"
+  presentation: "Empty"
+  video: "Empty"
+-
+  id: 002
+  title: "Empty slot"
+  description: "Slot description"
+  subtype: presentation
+  speakers: [1]
+  language: es
+  complexity: "Intermediate"
+  presentation: "Empty"
+  video: "Empty"
+-
+  id: 003
+  title: "Empty slot"
+  description: "Slot description"
+  subtype: presentation
+  speakers: [1]
+  language: es
+  complexity: "Intermediate"
+  presentation: "Empty"
+  video: "Empty"
+-
+  id: 004
+  title: "Empty slot"
+  description: "Slot description"
+  subtype: presentation
+  speakers: [1]
+  language: es
+  complexity: "Intermediate"
+  presentation: "Empty"
+  video: "Empty"
+-
+  id: 005
+  title: "Coffee Break"
+  place: "Hall"
+  service: true
+  description: "The best time to talk with speakers and attendees"
+-
+  id: 006
+  title: "Empty slot"
+  description: "Slot description"
+  subtype: presentation
+  speakers: [1]
+  language: es
+  complexity: "Intermediate"
+  presentation: "Empty"
+  video: "Empty"
+-
+  id: 007
+  title: "Empty slot"
+  description: "Slot description"
+  subtype: presentation
+  speakers: [1]
+  language: es
+  complexity: "Intermediate"
+  presentation: "Empty"
+  video: "Empty"
+-
+  id: 008
+  title: "Lunch Break"
+  place: "Dining room"
+  service: true
+-
+  id: 009
+  title: "Empty slot"
+  description: "Slot description"
+  subtype: presentation
+  speakers: [1]
+  language: es
+  complexity: "Intermediate"
+  presentation: "Empty"
+  video: "Empty"
+-
+  id: 010
+  title: "Empty slot"
+  description: "Slot description"
+  subtype: presentation
+  speakers: [1]
+  language: es
+  complexity: "Intermediate"
+  presentation: "Empty"
+  video: "Empty"
+-
+  id: 011
+  title: "Empty slot"
+  description: "Slot description"
+  subtype: presentation
+  speakers: [1]
+  language: es
+  complexity: "Intermediate"
+  presentation: "Empty"
+  video: "Empty"
+-
+  id: 012
+  title: "Empty slot"
+  description: "Slot description"
+  subtype: presentation
+  speakers: [1]
+  language: es
+  complexity: "Intermediate"
+  presentation: "Empty"
+  video: "Empty"    
+-
+  id: 013
+  title: "Empty slot"
+  description: "Slot description"
+  subtype: presentation
+  speakers: [1]
+  language: es
+  complexity: "Intermediate"
+  presentation: "Empty"
+  video: "Empty"
+-
+  id: 014
+  title: "Empty slot"
+  description: "Slot description"
+  subtype: presentation
+  speakers: [1]
+  language: es
+  complexity: "Intermediate"
+  presentation: "Empty"
+  video: "Empty"
+-
+  id: 015
+  title: "Empty slot"
+  description: "Slot description"
+  subtype: presentation
+  speakers: [1]
+  language: es
+  complexity: "Intermediate"
+  presentation: "Empty"
+  video: "Empty"      
+-
+  id: 016
+  title: "Coffee Break"
+  place: "Hall"
+  service: true
+  description: "The best time to talk with speakers and attendees"
+-
+  id: 017
+  title: "Test: Interacting with Google Services using nothing but HTML"
+  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  subtype: keynote
+  speakers: [7]
+  language: en
+  complexity: "Expert"
+  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"

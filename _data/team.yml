@@ -1,0 +1,26 @@
+- 
+  id: 0
+  name: "Antonio"
+  surname: "López Marín"
+  title: "Organizador Valencia Android Developer Group y GDG Valencia"
+  thumbnailUrl: tonilopezmr.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "ADG", title: "Android Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+AntonioLopezMarin"}
+    - {name: "twitter", link: "https://twitter.com/tonilopezmr"}
+    - {name: "github", link: "https://github.com/tonilopezmr"}
+    - {name: "site", link: "http://tonilopezmr.github.io/"}
+- 
+  id: 1
+  name: "Luis"
+  surname: "Ibáñez"
+  title: "Sponsors and Speaker manager"
+  thumbnailUrl: luis.jpg
+  team: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/ender3_"}
+    - {name: "github", link: "https://github.com/luis-ibanez"}
+    - {name: "site", link: "http://the3rocks.com/"}

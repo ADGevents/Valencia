@@ -1,0 +1,220 @@
+# Plugins
+gems:
+- jekyll-sitemap
+safe: false
+
+# Build Settings
+markdown: kramdown
+permalink: pretty
+exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
+
+
+# Site Settings
+title: "Valencia ADG Conf 2017"
+email: "valencia@adg.events"
+description: "Conferencia Android Devloper Group en Valencia"
+baseurl: ""
+url: "http://valencia.adg.events/"
+googleAnalyticsTrackingId: "UA-43643469-5"
+googleAnalyticsSiteUrl: "gdg-x.github.io"
+siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+
+# Organizer Info
+organizerName: "Antonio López"
+organizerAlternateName: "Organizador Valencia Android Developer Group"
+organizerDescription: "Soy voluntario en VADG donde comparto experiencias sobre la tecnología android con pasión."
+organizerEmail: "valencia@adg.events"
+organizerLogo: "/img/seo/organizer-logo.png"
+organizerLink: "http://the3rocks.com/"
+
+# Head
+metaKeywords: "event, conferencia, adg, gdg, android, programming, developers, valencia, group"
+twitterAccount: "@VADGevents"
+socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+
+# Documents
+c4pUrl: "https://bit.ly/dfua-c4p"
+c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+
+
+# Navigation
+navigationLinks:
+ - {permalink: "/", text: "Home"}
+ - {permalink: "/schedule/", text: "Agenda"}
+ - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/team/", text: "Nosotros"}
+ - {permalink: "/logistics/", text: "Localización"}
+
+# Hero Block
+heroImage: "valencia.jpg"
+heroTitle: "Valencia <typeout> Conf 2017"
+eventDate: "23, 24 - Junio, 2017"
+typeoutTextValues: '"ADG", "Android", "Developer", "Group", ""'
+typeoutFallback: "Season"
+heroButtons:
+ - {permalink: "/#tickets", text: "Compra tu entrada"}
+
+# About Block
+aboutTitle: "Acerca de Valencia ADG Conf"
+aboutBlock:
+ - {title: "Conferencia", image: "conference.jpg", text: "El evento más esperado de Android este 2017, aprende de los mejores y disfruta de una comunidad única." }
+ - {title: "Mesa redonda", image: "workshop.jpg", text: "Pregunta cualquier inquietud que tengas a los expertos de Android en la mesa redonda. ¡Ven y pregunta!" }
+
+# Statistic Block
+statisticBlockImage: "statistic.jpg"
+statisticBlock:
+ - {count: "270", specialCharacter: "+", info: "asistentes", detail: "llegados de todas partes"}
+ - {count: "22", specialCharacter: "+", info: "horas", detail: "de puro Android"}
+ - {count: "10", specialCharacter: "+", info: "speakers", detail: "con ganas de compartir"}
+
+# Rockstar Speakers Block
+rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersCount: 4
+rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersButtonText: "See all speakers"
+
+# Location Block
+locationBlockTitle: "Location"
+eventLocationName: "Tarongers - Fausto Elio"
+eventLocationLink: "https://www.google.es/maps/place/39%C2%B028'41.8%22N+0%C2%B020'01.8%22W/@39.4787296,-0.332237,16.69z/data=!4m5!3m4!1s0x0:0x0!8m2!3d39.478267!4d-0.333831?hl=es"
+eventStreetAddress: "Universidad Politécnica de Valencia"
+eventAddressLocality: "Valencia"
+eventAddressLocalityRegion: "Valencia"
+eventPostalCode: "46022"
+eventAddressCountry: "Spain"
+
+eventPlaceCoordinates: "39.477226, -0.334440"
+mapCenterCoordinates: "39.477226, -0.334440"
+mapMobileCenterCoordinates: "39.477226, -0.334440"
+
+# Venue Block
+venueBlockTitle: "Nuestro espacio"
+venueBigImage: "venue_0.jpg"
+venueSmallImage1: "venue_1.jpg"
+venueSmallImage2: "venue_2.jpg"
+venueSmallImage3: "venue_3.jpg"
+venueTitle: "Auditorio del Cubo Azul"
+venueFeatures: ["Edificio 8B - Acceso N", "Tarongers - Fausto Elio", ""]
+
+# Tweets Feed Block
+tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedTitle: "What's Up?"
+twitterHashTag: "VADGConf"
+twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+
+# Partners Block
+organizersTitle: "Organizers"
+partnersTitle: "Partners"
+partnersC4sponsorsButton: "Become a sponsor"
+
+# Subscribe Block
+subscribeImage: "subscribe.jpg"
+subscribeTitle: "Subscribe for updates"
+subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+
+# Tickets Block
+ticketsTitle: "Pricetable"
+ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsOffers:
+ -
+  name: "Early Bird"
+  price: "350"
+  priceCurrency: "UAH"
+  ticketsNumber: "150"
+  ribbon: "-5%"
+  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "Buy Now"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2014-08-25T10:00"
+  validThrough: "2014-09-30T23:59"
+ -
+  name: "Last Chance"
+  price: "450"
+  priceCurrency: "UAH"
+  ticketsNumber: "100"
+  ribbon: "-20%"
+  featured: true
+  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "Buy Now"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2014-10-01T00:00"
+  validThrough: "2014-10-23T23:59"
+  disabled: true
+ -
+  name: "Student"
+  price: "200"
+  priceCurrency: "UAH"
+  ticketsNumber: "50"
+  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "Buy Now"
+  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2014-08-20T10:00"
+  validThrough: "2014-10-23T23:59"
+  soldOut: true
+  soldOutText: "Sold Out"
+
+# Footer
+socialLinks:
+ - {link: "https://twitter.com/VADGevents", icon: "twitter"}
+footerBlocks:
+ -
+  title: "Links"
+  links:
+   - {link: "http://global.adg.events/", text: "Global ADG"}
+   - {link: "http://valencia.adg.events/vadg", text: "Valencia Android Developers Group"}
+ -
+  title: "Contacts"
+  links:
+   - {link: "mailto:valencia@adg.events", text: "valencia@adg.events"}
+ -
+  title: "FAQ"
+  links:
+   - {permalink: "/cod/", text: "Code of Conduct"}
+
+
+# Speakers List Block
+showSessions: true
+
+# Team Block
+teamBlockTitle: "¿Qué es Valencia ADG Conf?"
+aboutUs: 'Queremos convertirnos en la conferencia Android más grande a nivel nacional este 2017. Es el punto de encuentro de la comunidad Android en España para compartir conocimiento, experiencias, conocernos y pasarlo bien. Su duración es de dos días que consta de 10 charlas y una mesa redonda entre nuestros expertos, la comida del primer día está incluida en la entrada. Se celebrará los días 23 y 24 de Junio 2017 en Universidad Politécnica de Valencia (UPV), será organizada por <a href="http://valencia.adg.events/">VADG</a>.'
+
+# Logistics Find Way Block
+findWayTitle: "Encuentra tu camino"
+findWayDistance: "Distance"
+findWayDriving: "En coche"
+findWayWalking: "Andando"
+findWayBicycling: "En bicicleta"
+findWayTransit: "TRANSIT"
+findWayFindFlight: "Encuentra vuelo"
+logisticsMapCenterCoordinates: "39.477226, -0.334440"
+logisticsMapMobileCenterCoordinates: "39.477226, -0.334440"
+logisticsMapAutoDirections: false
+
+# Logistics Direction Details Block
+directionDetailsImage: "direction-details.jpg"
+directionDetailsTitle: "Llega a Valencia"
+directionDetailsCards:
+ - {title: "Desde el aeropuerto", information: 'El aeropuerto de Valencia está a las afueras, es fácil llegar desde allí en coche o taxi. Más información en la <a href="http://www.aeropuerto-valencia.com/">web del aeropuerto</a>.'}
+ - {title: "Autobús", information: 'La parada de bús se llama Fausto Elio, para llegar necesitas coger la linea 1, puedes combinar metro hasta Marítim - Serrería. Más información en la página de <a href="http://www.emtvalencia.es/ciudadano/index.php">la EMT</a>.'}
+ - {title: "Tranvías", information: 'La parada de tranvía se llama Serrería con las lineas 4 y 6, puedes combinar con metro en la parada de Benimaclet. Más información en la página de <a href="http://www.metrovalencia.es/planos.php?page=103">linea 4 y 6</a>.'}
+directionDetailsWideCards:
+ -
+  title: "Questions?"
+  subCards:
+   -
+    title: "Localización"
+    links:
+     - {link: "http://www.upv.es/contenidos/ISVA2011/info/795207normalc.html", text: "Cómo llegar"}
+     - {link: "http://www.upv.es/contenidos/ISVA2011/noticia_795141c.html", text: "Lugar"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+   -
+    title: "Contacta con nosotros"
+    links:
+     - {link: "mailto:valencia@adg.events", text: "valencia@adg.events"}
+

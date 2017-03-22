@@ -1,0 +1,97 @@
+- 
+  date: "2017-6-23"
+  dateReadable: "Junio 23"
+  tracks: 
+    - {title: "Android", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "9:30",
+    	endTime: "10:00",
+    	sessionIds: [001]
+    }
+    - {
+        startTime: "10:00",
+        endTime: "10:15",
+        sessionIds: [002]
+    }
+    - {
+    	startTime: "10:15",
+    	endTime: "11:00",
+    	sessionIds: [003]
+    }
+    - {
+        startTime: "11:00",
+        endTime: "11:45",
+        sessionIds: [004]
+    }
+    - {
+        startTime: "11:45",
+        endTime: "12:15",
+        sessionIds: [005]
+    }
+    - {
+        startTime: "12:15",
+        endTime: "13:00",
+        sessionIds: [006]
+    }
+    - {
+        startTime: "12:15",
+        endTime: "13:45",
+        sessionIds: [007]
+    }
+    - {
+        startTime: "14:00",
+        endTime: "16:00",
+        sessionIds: [008]
+    }
+    - {
+        startTime: "16:00",
+        endTime: "16:45",
+        sessionIds: [009]
+    }
+    - {
+        startTime: "16:45",
+        endTime: "17:30",
+        sessionIds: [010]
+    }
+    - {
+        startTime: "17:30",
+        endTime: "18:40",
+        sessionIds: [011]
+    }
+- 
+  date: "2017-6-24"
+  dateReadable: "Junio 24"
+  tracks: 
+    - {title: "Android", color: "#90be4e"}
+  timeslots: 
+    - {
+        startTime: "9:30",
+        endTime: "10:00",
+        sessionIds: [012]
+    }
+    - {
+        startTime: "10:00",
+        endTime: "10:15",
+        sessionIds: [013]
+    }
+    - {
+        startTime: "10:15",
+        endTime: "11:00",
+        sessionIds: [014]
+    }
+    - {
+        startTime: "11:00",
+        endTime: "11:45",
+        sessionIds: [015]
+    }
+    - {
+        startTime: "11:45",
+        endTime: "12:15",
+        sessionIds: [016]
+    }
+    - {
+        startTime: "12:15",
+        endTime: "13:00",
+        sessionIds: [017]
+    }
